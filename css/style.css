@@ -1,0 +1,26 @@
+.parent {
+    background-image: url(../img/header.jpg);
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+
+.text {
+    color: white;
+    display: flex; 
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+    height: 100%; 
+}
+
+.q{
+    display: none;
+}
+button{
+    position: absolute;
+    bottom: 17%;
+    background-color: #A91D3A !important;
+}
+
+
